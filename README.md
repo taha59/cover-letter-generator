@@ -63,3 +63,9 @@ A fully customized cover letter will be saved at the path defined in `COVER_LETT
 > ⚠️ These placeholders are required. If they are missing or misnamed, the generated cover letter may be incomplete or fail to generate properly. a sample cover letter is included that shows the placeholders
 
 > 📝 A sample cover letter template is included in the project to show how the placeholders should be used.
+---
+
+## ⚠️ Disclaimer
+
+This tool is provided as-is for personal use. The user is responsible for reviewing and editing generated content. API usage and data processing are handled entirely through the user's own configuration and keys.
+
